@@ -7,15 +7,14 @@ Adaptation of Elena Kolevska's [elenakolevska-theme](https://github.com/elena-ko
 
 #Features
 [Prism library](http://prismjs.com/) for syntax highlighting.
+
 [Disqus](https://disqus.com/)
 
 #Special thanks to
 
 Seth Lilly 
-
 [Vapor theme](https://github.com/sethlilly/Vapor)
 
 
 Elena Kolevska
-
 [elenakolevska-theme](https://github.com/elena-kolevska/elenakolevska-theme)
