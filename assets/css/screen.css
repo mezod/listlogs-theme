@@ -278,6 +278,7 @@ footer.post-footer {
 }
 footer .social {
   margin-bottom: 30px;
+  margin-top: 30px;
 }
 footer .social a {
   color: #02090e;
@@ -519,7 +520,10 @@ pre[class*="language-"] {
 .icon-feed,
 .icon-twitter,
 .icon-google-plus,
-.icon-facebook {
+.icon-facebook,
+.icon-flickr3,
+.icon-github3,
+.icon-linkedin {
   font-family: 'icons';
   speak: none;
   font-style: normal;
@@ -532,7 +536,10 @@ pre[class*="language-"] {
 }
 .icon-twitter,
 .icon-google-plus,
-.icon-facebook {
+.icon-facebook,
+.icon-flickr3,
+.icon-github3,
+.icon-linkedin {
   padding-left: 0.5em;
 }
 .icon-ghost:before {
@@ -541,7 +548,10 @@ pre[class*="language-"] {
 .icon-feed:before {
   content: "\e001";
 }
-.icon-twitter:before {
+.icon-twitter:before,
+.icon-flickr3:before,
+.icon-github3:before,
+.icon-linkedin:before {
   content: "\e002";
   font-size: 1.1em;
 }
