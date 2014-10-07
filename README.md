@@ -6,9 +6,13 @@ Adaptation of Elena Kolevska's [elenakolevska-theme](https://github.com/elena-ko
 [Setting up ghost on a Debian VPS step by step](http://blog.joanboixados.com).
 
 #Features
-[Prism library](http://prismjs.com/) for syntax highlighting.
-
-[Disqus](https://disqus.com/)
+- [Prism library](http://prismjs.com/) for syntax highlighting.
+- [Disqus](https://disqus.com/) for easy comments functionality.
+- Related blog posts
+- Tags
+- Share
+- Table of contents (TOC)
+- Google Analytics
 
 #Special thanks to
 
