@@ -1,6 +1,6 @@
 #Yet another ghost theme
 
-Adaptation of Elena Kolevska's [elenakolevska-theme](https://github.com/elena-kolevska/elenakolevska-theme) variation of the Seth Lilly's [Vapor theme](https://github.com/sethlilly/Vapor) for my personal [ghost](http://ghost.org) [blog](http://blog.joanboixados.com).
+Adaptation of Elena Kolevska's [elenakolevska-theme](https://github.com/elena-kolevska/elenakolevska-theme) variation of Seth Lilly's [Vapor theme](https://github.com/sethlilly/Vapor) for my personal [ghost](http://ghost.org) [blog](http://blog.joanboixados.com).
 
 #Documentation using this theme
 [Setting up ghost on a Debian VPS step by step](http://blog.joanboixados.com).
