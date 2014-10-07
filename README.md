@@ -12,7 +12,10 @@ Adaptation of Elena Kolevska's [elenakolevska-theme](https://github.com/elena-ko
 #Special thanks to
 
 Seth Lilly 
+
 [Vapor theme](https://github.com/sethlilly/Vapor)
 
+
 Elena Kolevska
+
 [elenakolevska-theme](https://github.com/elena-kolevska/elenakolevska-theme)
