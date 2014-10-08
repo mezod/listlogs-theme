@@ -2,9 +2,7 @@
 
 Adaptation of Elena Kolevska's [elenakolevska-theme](https://github.com/elena-kolevska/elenakolevska-theme) variation of Seth Lilly's [Vapor theme](https://github.com/sethlilly/Vapor) for my personal [ghost](http://ghost.org) [blog](http://blog.joanboixados.com).
 
-#Docs to adapt this theme
-
-#Other docs using this theme
+#Docs using this theme
 [Setting up ghost on a Debian VPS step by step](http://blog.joanboixados.com).
 
 #Features
@@ -13,7 +11,6 @@ Adaptation of Elena Kolevska's [elenakolevska-theme](https://github.com/elena-ko
 - Related blog posts
 - Tags
 - Share
-- Table of contents (TOC)
 - Google Analytics
 
 #Special thanks to
